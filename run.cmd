@@ -1,0 +1,2 @@
+node selfbot.js
+PAUSE
